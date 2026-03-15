@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# Models (too large for GitHub)
+models/roberta-absa/
+
+# Data
+data/*.csv
+
+# MLflow
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/logs/
