@@ -216,5 +216,3 @@ Data Scientist | NLP | MLOps
 
 ---
 
-## 📄 License
-MIT License
